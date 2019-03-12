@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACE,OADK,CACL,SAAS,CAAC;EACR,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,SAAS;EACzB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACpB;;AANH,AAOE,OAPK,CAOL,SAAS,AAAA,OAAO,CAAC;EACf,WAAW,EAAE,cAAc;CAC5B;;ACTH,AAAA,cAAc,CAAC;EACb,MAAM,EAAE,KAAK;CACd;;AAED,AAAA,iBAAiB,CAAC;EAChB,UAAU,EAAE,wBAAwB;EACpC,eAAe,EAAE,KAAK;CACvB;;AACD,AAAA,iBAAiB,CAAC;EAChB,UAAU,EAAE,wBAAwB;EACpC,eAAe,EAAE,KAAK;CACvB;;AACD,AAAA,iBAAiB,CAAC;EAChB,UAAU,EAAE,wBAAwB;EACpC,eAAe,EAAE,KAAK;CACvB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/_navbar.scss",
+        "../sass/_carousel.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
