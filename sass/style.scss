@@ -1,5 +1,10 @@
 @import "./base";
-@import "./navbar";
-@import "./carousel";
-@import "./home-heading";
-@import "./video-play";
+
+// INDEX
+@import "./index/navbar";
+@import "./index/carousel";
+@import "./index/home-heading";
+@import "./index/video-play";
+
+// ABOUT
+@import "./about/page-header";
