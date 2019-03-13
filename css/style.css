@@ -38,12 +38,26 @@
   color: #fff;
 }
 
-#home-heading .dark-overlay {
+.dark-overlay {
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
   width: 100%;
   background: rgba(0, 0, 0, 0.7);
+}
+
+.video-play {
+  position: relative;
+  min-height: 200px;
+  background: url("../img/media.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+.video-play a {
+  color: #fff;
 }
 /*# sourceMappingURL=style.css.map */
