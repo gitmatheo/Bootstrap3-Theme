@@ -65,6 +65,11 @@ body {
   color: #fff;
 }
 
+#main-footer {
+  background: #000;
+  color: rgba(255, 255, 255, 0.8);
+}
+
 #page-header {
   height: 200px;
   background: url("../img/image1.jpg");
